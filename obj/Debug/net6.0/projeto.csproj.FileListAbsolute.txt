@@ -1,0 +1,15 @@
+C:\workspace\Dev\C# e Dotnet\projeto\bin\Debug\net6.0\projeto.exe
+C:\workspace\Dev\C# e Dotnet\projeto\bin\Debug\net6.0\projeto.deps.json
+C:\workspace\Dev\C# e Dotnet\projeto\bin\Debug\net6.0\projeto.runtimeconfig.json
+C:\workspace\Dev\C# e Dotnet\projeto\bin\Debug\net6.0\projeto.dll
+C:\workspace\Dev\C# e Dotnet\projeto\bin\Debug\net6.0\ref\projeto.dll
+C:\workspace\Dev\C# e Dotnet\projeto\bin\Debug\net6.0\projeto.pdb
+C:\workspace\Dev\C# e Dotnet\projeto\obj\Debug\net6.0\projeto.csproj.AssemblyReference.cache
+C:\workspace\Dev\C# e Dotnet\projeto\obj\Debug\net6.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Dev\C# e Dotnet\projeto\obj\Debug\net6.0\projeto.AssemblyInfoInputs.cache
+C:\workspace\Dev\C# e Dotnet\projeto\obj\Debug\net6.0\projeto.AssemblyInfo.cs
+C:\workspace\Dev\C# e Dotnet\projeto\obj\Debug\net6.0\projeto.csproj.CoreCompileInputs.cache
+C:\workspace\Dev\C# e Dotnet\projeto\obj\Debug\net6.0\projeto.dll
+C:\workspace\Dev\C# e Dotnet\projeto\obj\Debug\net6.0\ref\projeto.dll
+C:\workspace\Dev\C# e Dotnet\projeto\obj\Debug\net6.0\projeto.pdb
+C:\workspace\Dev\C# e Dotnet\projeto\obj\Debug\net6.0\projeto.genruntimeconfig.cache
